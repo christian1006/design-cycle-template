@@ -27,7 +27,90 @@ Take a few minutes getting to know your partner and their programming ambitions.
 
 ### Notes
 
-Notes you took during the interview.
+Marianna
+
+Background:
+
+Sao Paulo Brazil
+
+univ. medical. Doctor. 
+
+Ex is belgium
+
+healthcare software
+
+ontology 
+
+semantic tech
+
+18 years in field
+
+solutions architect
+
+sales support
+
+custom. Implement
+
+wear many hats.
+
+US, arkansas
+
+2008 left company, consulting in health
+
+2010 bought by multinational. Nuance comm.
+
+Multiple teams and locations.
+
+Use of ontology, semantics. 
+
+Desire to make solutions.
+
+Marketing, product management.
+
+Art and music.
+
+Social media consulting
+
+diagnosed with breast cancer in 2014.
+
+
+
+
+
+
+
+Bootcamp:
+
+
+work with artists
+
+build prototypes of bigger project ideas. 
+
+Own artist projects. 
+
+Before:
+
+close to burnout.
+
+Stop consulting
+
+Outside work:
+
+art, visual, performing. 
+
+Reading, fiction, writer. 
+
+Music. Playing. 
+
+Goes to brazil often.
+
+Father in brazil has a business. 
+
+Help with that, marketing, support.
+
+In gent, since 2004. Travel a lot, consulting, US and EU. 
+
+She thinks also about doing more than talking. Easier to talk than do. Planning vs. implement. 
 
 ### Summary
 
