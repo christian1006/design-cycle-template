@@ -114,7 +114,7 @@ She thinks also about doing more than talking. Easier to talk than do. Planning 
 
 ### Summary
 
-Marianna is from San Paolo, Brazil. She lives in Gent since 2004. She ended up in Gent because of marriage. She is a mother of two children. Her professional background is impressive: She studied medical field in an university in Brazil. She has studied to be a doctor. She is passionate about ontology and arts and music. She has done consulting in the past in the healthcare industry, semantic technology. 18 years of work experience in total. In her free-time, she likes arts and music. She likes to deal with artists and listen to music. She likes to read books too, about fiction.    
+Marianna is from San Paolo, Brazil. She lives in Gent since 2004. She ended up in Gent because of marriage. She is a mother of two children. Her professional background is impressive: She studied medical field in an university in Brazil. She has studied to be a doctor. She is passionate about ontology and arts and music. She has done consulting in the past in the healthcare industry, semantic technology. 18 years of work experience in total. In her free-time, she likes arts and music. She likes to deal with artists and listen to music. She likes to read books too, about fiction. Also to be a writer.     
 
 [TOP](#steps)
 
