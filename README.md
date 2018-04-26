@@ -1,4 +1,4 @@
-# Designing NAME's Portfolio
+# Designing Marianna's Portfolio
 
 Briefly describe this person, their current portfolio, and what you're about to do.
 
@@ -31,7 +31,7 @@ Notes you took during the interview.
 
 ### Summary
 
-Consolidate your notes into a few sentences.  Do your best to express what your partner was trying to say, not what you learned from them.
+Marianna is from San Paolo, Brazil. She lives in Gent since 2004. She ended up in Gent because of marriage. She is a mother of two children. Her professional background is impressive: She studied medical field in an university. She has studied to be a doctor. She is passionate about ontology and arts and music. She has done consulting in the past in the healthcare industry, semantic technology. 18 years in total. In her free-time, she likes arts and music. She likes to deal with artists and listen to music. She likes to read books, about fiction.    
 
 [TOP](#steps)
 
